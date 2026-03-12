@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aline 👋
 
-<!--
-**alinereis-tech/alinereis-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ADS student  
+🐍 Learning Python  
+🗄️ Exploring SQL and databases  
 
-Here are some ideas to get you started:
+## Currently studying
+- Python
+- Logic and algorithms
+- Software development fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Age Calculator (Python)  
+🔹 Task Manager (CLI)  
+🔹 Simple User Database (Python + SQLite)
+
+## Goals
+Become a software developer and keep building useful projects.
